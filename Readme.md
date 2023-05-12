@@ -8,3 +8,5 @@ Selected appropriate features by visualizing data on pie/bar charts with matplot
 
 ### Predict the stock price using time series
 Reading and coding dataset to drop all null values with two main library are numpy and pandas, using plotly to visualize data to select lag values and lagged features. Apply pmdarima algorithm to train the model and predict the price of stock depending on lag values in the past.
+
+Contributor: Hoang Tu Huynh
